@@ -1,2 +1,0 @@
-# VGG_ILSVRC_16_layers
-VGG_ILSVRC_16_layers
